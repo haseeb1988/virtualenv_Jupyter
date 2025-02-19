@@ -1,4 +1,4 @@
-# Creating and Activating Python Virtual Environments in Jupyter NoteBook
+# How to create and activate Python Virtual Environments in Jupyter NoteBook
 
 ## Lab Overview:
 
